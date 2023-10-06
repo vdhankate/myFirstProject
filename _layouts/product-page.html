@@ -7,7 +7,7 @@ layout: "page"
 {% assign products = site.data.products.items %}
 {% for product in products %}
 <div class="card">
-    <img src="{{product.image}}" alt="Avatar" style="width:40%">
+    <img src="{{site.baseurl}}{{product.image}}" alt="Avatar" style="width:40%">
     <div class="container">
       <h4><b>{{product.name}}</b></h4>
       <p>{{product.price}}</p>
