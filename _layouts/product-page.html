@@ -6,13 +6,20 @@ layout: "page"
 
 {% assign products = site.data.products.items %}
 {% for product in products %}
+
+<div class="tr">
 <div class="card">
-    <img src="{{site.baseurl}}{{product.image}}" alt="Avatar" style="width:40%">
+    <img src="{{site.baseurl}}{{product.image}}" alt="Avatar" >
     <div class="container">
       <h4><b>{{product.name}}</b></h4>
       <p>{{product.price}}</p>
+      
     </div>
+   
   </div>
-
+  <div class="text">
+   <p>orem ipsum dolor sit amet consectetur adipisicing elit. Mollitia illo necessitatibus inventore expedita dolor quisquam sequi iure voluptates, quam praesentium magni ipsam corporis alias excepturi unde! Placeat qui enim ipsa. Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+  </div>
+</div>
 {% endfor %}
 
