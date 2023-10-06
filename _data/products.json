@@ -1,0 +1,29 @@
+{
+    "items": [
+        {
+            "id":1,
+            "name":"LED",
+            "price": "112$",
+            "image":"/assets/img/prod.png"
+        },
+        {
+            "id":2,
+            "name":"T-shirt",
+            "price": "25$",
+            "image":"/assets/img/prod.png"
+        },
+        {
+            "id":3,
+            "name":"Toy Car",
+            "price": "3$",
+            "image":"/assets/img/prod.png"
+        },
+        {
+            "id":4,
+            "name":"Chess Board",
+            "price": "9$",
+            "image":"/assets/img/prod.png"
+        }
+
+    ]
+}
