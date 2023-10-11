@@ -3,7 +3,7 @@ layout: post
 title: Pune Metro
 date: {}
 categories: city
-published: false
+published: true
 ---
 
 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia illo necessitatibus inventore expedita dolor quisquam sequi iure voluptates, quam praesentium magni ipsam corporis alias excepturi unde! Placeat qui enim ipsa.
