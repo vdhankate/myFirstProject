@@ -3,7 +3,7 @@ layout: post
 title: Pune Metro
 date: {}
 categories: city
-published: true
+published: false
 ---
 
 
@@ -14,7 +14,6 @@ published: true
 </p>
 
 # Stations
-
 - Gadital
 - Fatima Nagar
 - Camp
