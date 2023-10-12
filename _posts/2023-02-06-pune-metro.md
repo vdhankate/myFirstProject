@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Pune Metro
-date: {}
+title: "Pune Metro"
+date: 2023-10-09
 categories: city
 published: true
 ---
